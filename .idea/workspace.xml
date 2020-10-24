@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603565100597</updated>
-      <workItem from="1603565101819" duration="1031000" />
+      <workItem from="1603565101819" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="añadido color">
       <created>1603565195771</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603565887478</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2.1">
+      <created>1603566167287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603566167287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="añadido color" />
     <MESSAGE value="fallo en la etiqueta" />
-    <option name="LAST_COMMIT_MESSAGE" value="fallo en la etiqueta" />
+    <MESSAGE value="2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1" />
   </component>
 </project>
